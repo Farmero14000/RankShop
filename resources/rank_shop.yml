@@ -1,6 +1,6 @@
 member:
   price: 100
-  description: “Become a VIP”
+  description: “Become a Member”
 vip:
   price: 100
   description: “Become a VIP”
