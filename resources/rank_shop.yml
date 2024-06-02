@@ -1,0 +1,12 @@
+member:
+  price: 100
+  description: “Become a VIP”
+vip:
+  price: 100
+  description: “Become a VIP”
+admin:
+  price: 100
+  description: “Become a Admin”
+owner:
+  price: 100
+  description: “Become a Owner”

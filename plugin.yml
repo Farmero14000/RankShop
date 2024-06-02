@@ -1,0 +1,9 @@
+name: RankShop
+version: 1.0.0
+author: Farmero
+api: 5.0.0
+main: Farmero\rankshop\RankShop
+
+permissions:
+  rankshop.cmd:
+    default: true
